@@ -1,0 +1,11 @@
+[package]
+name = "node_sequential_2_1_dense_14_1_add_readvariableop_0"
+version = "0.1.0"
+edition = "2023_10"
+
+[dependencies]
+orion = { git = "https://github.com/gizatechxyz/orion.git", rev = "57871a4" } 
+
+
+[cairo]
+enable-gas = false
